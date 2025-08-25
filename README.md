@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Video Walkthrough](https://youtu.be/ofKYU0SibxQ)
+Click on the link to watch the video walkthrough -> [Video Walkthrough](https://youtu.be/ofKYU0SibxQ)
 
 Used MacBook screen record to make the video walkthrough of the website and then uploaded it on youtube for it to be accessable.
 
