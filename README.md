@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/ofKYU0SibxQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://img.youtube.com/vi/ofKYU0SibxQ/0.jpg)](https://youtu.be/ofKYU0SibxQ)
 
 Used MacBook screen record to make the video walkthrough of the website and then uploaded it on youtube for it to be accessable.
 
